@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Opinion",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-12T11:45:45-03:00"
+    },
+    {
+      "path": "intro.html",
+      "title": "Introduction",
+      "description": "Introduction of Opinion Blog\n",
+      "author": [
+        {
+          "name": "Chungil Chae",
+          "url": "https://chadchae.github.io"
+        }
+      ],
+      "date": "`r format(Sys.time(), '%d %B, %Y')`",
+      "contents": "\n\nContents\nIntroduction\n\nIntroduction\n\n\n\n",
+      "last_modified": "2021-02-12T11:45:47-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
